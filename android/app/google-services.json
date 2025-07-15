@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748579978540",
+    "project_id": "wegowolf-b87a6",
+    "storage_bucket": "wegowolf-b87a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748579978540:android:28910cc983973f82e2c089",
+        "android_client_info": {
+          "package_name": "com.wegowolf.wegowolf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBexmc7GN8QV3Q2sAcN6R8U70E6gJnxRPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

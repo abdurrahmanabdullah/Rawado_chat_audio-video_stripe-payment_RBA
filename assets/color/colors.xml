@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colors>
+  <!-- <color name="allPrimaryColor">#FF7D12FF</color> -->
+  <color name="allPrimaryColor">#FF5E17EB</color>
+  <color name="purpleTheamColor">#FF5E17EB</color>
+  <color name="blueTheamColor">#FF00FFFF</color>
+  <color name="whiteTheamColor">#FFFFFFFFF</color>
+  <color name="c000000">#FF000000</color>
+  <color name="cFEFFFE">#FFFEFFFE</color>
+  <color name="c707070">#FF707070</color>
+  <color name="cBDC9E0">#FFBDC9E0</color>
+  <color name="c8D8D8D">#FF8D8D8D</color>
+  <color name="c1E232C">#FF1E232C</color>
+  <color name="cDADADA">#FFDADADA</color>
+  <color name="cFDDBDD">#FFFDDBDD</color>
+  <color name="cAEC671">#FFAEC671</color>
+  <color name="c767677">#FF767677</color>
+  <color name="cA7A7A7">#FFA7A7A7</color>
+  <color name="c1C1C1C">#FF1C1C1C</color>
+  <color name="cCFCFCF">#FFCFCFCF</color>
+  <color name="c3C3B3B">#FF3C3B3B</color>
+  <color name="c5A5C5F">#FF5A5C5F</color>
+  <color name="cA8A8A8">#FFA8A8A8</color>
+  <color name="c111111">#FF111111</color>
+  <color name="cD7D7D7">#FFD7D7D7</color>
+  <color name="c36B37E">#FF36B37E</color>
+  <color name="c222222">#FF222222</color>
+  <color name="cA8A8A8">#FFA8A8A8</color>
+  <color name="cB0B0B0">#FFB0B0B0</color>
+  <color name="c353535">#FF353535</color>
+  <color name="c7D12FF">#FF7D12FF</color>
+  <color name="c5E17EB">#FF5E17EB</color>
+  <color name="c292929">#FF292929</color>
+  
+
+
+  <color name="white">#FFFFFFFF</color>
+  <color name="scaffoldColor">#FF0B0A0A</color>
+</colors>
